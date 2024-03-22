@@ -72,6 +72,7 @@ Let's try this out utilizing Javascript for Copilot.
 
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
 
+
 <footer>
 
 <!--
